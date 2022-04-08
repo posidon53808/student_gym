@@ -14,6 +14,10 @@
 
 <h3>如何使用</h3>
  <p>輸入資訊即可在查詢處看到</p>
+ <p>MySQL資訊</p>
+ <li>schema:studentgym</li>
+
+ 
  
  <h3>需求環境</h3>
   <p>Java JDK</p>
