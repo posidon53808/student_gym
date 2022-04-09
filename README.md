@@ -19,8 +19,10 @@
 <img src="https://github.com/posidon53808/student_gym/blob/main/screen_shot/query.png" alt="查詢畫面" title="查詢畫面">
  <p>當使用完歸還時，刪除自己所輸入的資料即算完成歸還</p>
 <img src="https://github.com/posidon53808/student_gym/blob/main/screen_shot/delete.png" alt="刪除資料" title="刪除資料">
- <p>MySQL資訊</p>
+ <h3>MySQL資訊</h3>
  <li>schema:studentgym</li>
+ <p>資料庫詳細資料</p>
+ <p>https://github.com/posidon53808/student_gym/blob/main/studentgym_employee.rar</p>
 
 
  
