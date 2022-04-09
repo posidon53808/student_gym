@@ -30,5 +30,5 @@
  <h3>需求環境</h3>
   <p>Java JDK</p>
     <p>Eclipse IDE</p>
-      <p>tomecat</p>
+      <p>Apache Tomcat</p>
         <p>MySQL Workbench</p>
