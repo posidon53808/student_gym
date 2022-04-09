@@ -7,7 +7,7 @@
 
  <h3>使用技術</h3>
 <li>MVC架構</li>
-<li>JDBC</li>
+<li>Java JDBC</li>
 <li>JSP/Servlet</li>
 <li>HTML</li>
 <li>MySQL</li>
