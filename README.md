@@ -15,14 +15,14 @@
 <h3>如何使用</h3>
 <p>同學在首頁登記房號學號以及想借用的器材等相關資訊</p>
 <img src="https://github.com/posidon53808/student_gym/blob/main/screen_shot/index.png" alt="首頁" title="首頁">
- <p>首頁的下方能夠查詢目前有哪些器材被使用，以及借用的時間</p>
+ <p>首頁下方的「器材借用查詢」能夠查詢目前有哪些器材被使用，以及借用的時間</p>
 <img src="https://github.com/posidon53808/student_gym/blob/main/screen_shot/query.png" alt="查詢畫面" title="查詢畫面">
  <p>當使用完歸還時，刪除自己所輸入的資料即算完成歸還</p>
 <img src="https://github.com/posidon53808/student_gym/blob/main/screen_shot/delete.png" alt="刪除資料" title="刪除資料">
  <h3>MySQL資訊</h3>
- <li>schema:studentgym</li>
  <p>資料庫詳細資料</p>
  <p>https://github.com/posidon53808/student_gym/blob/main/studentgym_employee.rar</p>
+  <p>schema:studentgym</p>
 
 
  
