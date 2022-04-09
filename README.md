@@ -13,6 +13,7 @@
 <li>MySQL</li>
 
 <h3>如何使用</h3>
+<img src="https://github.com/posidon53808/student_gym/blob/main/screen_shot/index.png" alt="首頁" title="首頁">
  <p>輸入資訊即可在查詢處看到</p>
  <p>MySQL資訊</p>
  <li>schema:studentgym</li>
